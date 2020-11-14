@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/m13robert.github.io/static/css/main.f52e9e38.chunk.css",
+    "main.js": "/m13robert.github.io/static/js/main.7cd4737a.chunk.js",
+    "main.js.map": "/m13robert.github.io/static/js/main.7cd4737a.chunk.js.map",
+    "runtime-main.js": "/m13robert.github.io/static/js/runtime-main.f38f6771.js",
+    "runtime-main.js.map": "/m13robert.github.io/static/js/runtime-main.f38f6771.js.map",
+    "static/js/2.554dad4a.chunk.js": "/m13robert.github.io/static/js/2.554dad4a.chunk.js",
+    "static/js/2.554dad4a.chunk.js.map": "/m13robert.github.io/static/js/2.554dad4a.chunk.js.map",
+    "static/js/3.06fd189d.chunk.js": "/m13robert.github.io/static/js/3.06fd189d.chunk.js",
+    "static/js/3.06fd189d.chunk.js.map": "/m13robert.github.io/static/js/3.06fd189d.chunk.js.map",
+    "index.html": "/m13robert.github.io/index.html",
+    "static/css/main.f52e9e38.chunk.css.map": "/m13robert.github.io/static/css/main.f52e9e38.chunk.css.map",
+    "static/js/2.554dad4a.chunk.js.LICENSE.txt": "/m13robert.github.io/static/js/2.554dad4a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f38f6771.js",
+    "static/js/2.554dad4a.chunk.js",
+    "static/css/main.f52e9e38.chunk.css",
+    "static/js/main.7cd4737a.chunk.js"
+  ]
+}
